@@ -1,6 +1,12 @@
-# Neural Implicit
-a folder for HKU summer internship
+# open-surface-sdf
 
+## Intro
+
+### Open surfaces reconstructed from neural implicit truncated signed distance functions
+
+<div align=center><img src="https://raw.githubusercontent.com/mintpancake/gallery/main/images/trimed_tshirt.png"/></div>
+
+<div align=center><img src="https://raw.githubusercontent.com/mintpancake/gallery/main/images/trimed_shirt.png"/></div>
 
 ## TODO:
 1) Chamfer distance
